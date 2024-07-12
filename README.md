@@ -41,7 +41,7 @@ Sometimes i just code basic games and websites in HTML, CSS and JavaScript. Curr
 - APIs using the express npm
 
 # Contact
-Contact me at [contact@twdv.xyz](mailto:contact@twdv.xyz)
-Discord [Hosting]: https://discord.gg/cptcr
-Discord [Support]: https://discord.gg/QqcmNaYrds
-Discord [User]: [discord.com](https://discordlookup.com/user/931870926797160538)
+E-Mail: [contact@twdv.xyz](mailto:contact@twdv.xyz) <br>
+Discord [Hosting]: https://discord.gg/cptcr <br>
+Discord [Support]: https://discord.gg/QqcmNaYrds <br>
+Discord [User]: [discord.com](https://discordlookup.com/user/931870926797160538) <br>
