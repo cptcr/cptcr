@@ -48,3 +48,5 @@ I occasionally create basic games and websites using HTML, CSS, and JavaScript. 
 - **Discord [Support]**: [discord.gg/QqcmNaYrds](https://discord.gg/QqcmNaYrds)
 - **Discord [User]**: [discord.com](https://discordlookup.com/user/931870926797160538)
 
+## MOST USED LANGUAGES
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cptcr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
