@@ -3,14 +3,11 @@
 Backend Software Developer from Germany 🇩🇪 specializing in **C#**, **Node.js**, and scalable backend architectures.  
 Passionate about clean code, automation, and building tools that make developers’ lives easier.
 
-🌐 [cptcr.dev](https://cptcr.dev) | 💼 Krempel GmbH Vaihingen an der Enz (CIT Division)
+🌐 [cptcr.dev](https://cptcr.dev) 
 
 ---
 
 ## 👨‍💻 About Me
-
-I combine my role as a **Plastic Technologist** in composite materials with a passion for backend software development — blending hands-on industry experience with tech innovation.  
-I focus on building reliable, scalable, and maintainable backend systems, leveraging the latest tools and methodologies.
 
 - 🎯 Expert in backend & API design  
 - ⚙️ Automating workflows and improving developer productivity  
