@@ -5,16 +5,12 @@ Passionate about clean code, automation, and building tools that make developers
 
 🌐 [cptcr.dev](https://cptcr.dev) 
 
----
-
 ## 👨‍💻 About Me
 
 - 🎯 Expert in backend & API design  
 - ⚙️ Automating workflows and improving developer productivity  
 - 🤝 Contributor and maintainer of open-source projects  
 - 📚 Lifelong learner eager to explore new technologies  
-
----
 
 ## 🛠 Skills & Expertise
 
@@ -33,7 +29,6 @@ Passionate about clean code, automation, and building tools that make developers
 
 </div>
 *learning
----
 
 ## 🚀 Featured Projects
 
@@ -49,15 +44,12 @@ Passionate about clean code, automation, and building tools that make developers
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cptcr&show_icons=true&theme=radical&count_private=true" alt="Tony's GitHub stats" width="460" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cptcr&layout=compact&theme=radical" alt="Top Languages" width="320" />
 </p>
----
 
 ## 💖 Support My Work
 
@@ -72,8 +64,6 @@ Your contributions help me keep building and maintaining open-source projects.
     <img src="https://img.shields.io/badge/Donate%20via-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
   </a>
 </p>
-
----
 
 ## 📫 Let’s Connect
 
