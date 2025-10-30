@@ -22,17 +22,17 @@ Passionate about clean code, automation, and building tools that make developers
 
 | Category           | Technologies & Tools                                                |
 |--------------------|--------------------------------------------------------------------|
-| **Languages**      | C#, TypeScript, JavaScript, C++, Python, HTML, CSS                 |
-| **Frontend**       | React, Next.js, TailwindCSS, ShadCN UI                             |
-| **Backend & APIs** | Node.js, Express.js, EmbeddedJS, REST APIs, Discord.js, GraphQL    |
-| **Databases**      | MongoDB, Mongoose, Redis, Prisma, PostgreSQL                       |
-| **DevOps & Infra** | Docker, Vercel, AWS, Azure, Proxmox VE                            |
-| **Tools**          | Git, Microsoft 365, SAP, Figma, VS Code, JetBrains Rider          |
-| **Operating Systems** | Windows 11/10, Ubuntu 24/22, Debian 12, ParrotOS, Proxmox VE    |
+| **Languages**      | C# *, TypeScript, JavaScript, C++ *, Python *, HTML, CSS *               |
+| **Frontend**       | React *, Next.js *, TailwindCSS *, ShadCN UI *                             |
+| **Backend & APIs** | Node.js, Express.js, EmbeddedJS, REST APIs *, Discord.js, GraphQL *    |
+| **Databases**      | MongoDB, Mongoose, Redis *, Prisma *, PostgreSQL *                       |
+| **DevOps & Infra** | Docker *, Vercel, AWS *, Azure *, Proxmox VE *                           |
+| **Tools**          | Git *, Microsoft 365 *, SAP *, Figma *, VS Code, JetBrains Rider *          |
+| **Operating Systems** | Windows 11/10, Ubuntu 24/22 *, Debian 12 *, ParrotOS, Proxmox VE*    |
 | **AI & ML**        | Claude, ChatGPT, Midjourney, DALL·E, Stable Diffusion, Apple Intelligence |
 
 </div>
-
+*learning
 ---
 
 ## 🚀 Featured Projects
