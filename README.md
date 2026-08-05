@@ -1,78 +1,52 @@
-# 👋 Hi, I'm Tony
-
-Backend Software Developer from Germany 🇩🇪 specializing in **C#**, **Node.js**, and scalable backend architectures.  
-Passionate about clean code, automation, and building tools that make developers’ lives easier.
-
-🌐 [cptcr.dev](https://cptcr.dev) 
-
-## 👨‍💻 About Me
-
-- 🎯 Expert in backend & API design  
-- ⚙️ Automating workflows and improving developer productivity  
-- 🤝 Contributor and maintainer of open-source projects  
-- 📚 Lifelong learner eager to explore new technologies  
-
-## 🛠 Skills & Expertise
-
 <div align="center">
-
-| Category           | Technologies & Tools                                                |
-|--------------------|--------------------------------------------------------------------|
-| **Languages**      | C# *, TypeScript, JavaScript, C++ *, Python *, HTML, CSS *               |
-| **Frontend**       | React *, Next.js *, TailwindCSS *, ShadCN UI *                             |
-| **Backend & APIs** | Node.js, Express.js, EmbeddedJS, REST APIs *, Discord.js, GraphQL *    |
-| **Databases**      | MongoDB, Mongoose, Redis *, Prisma *, PostgreSQL *                       |
-| **DevOps & Infra** | Docker *, Vercel, AWS *, Azure *, Proxmox VE *                           |
-| **Tools**          | Git *, Microsoft 365 *, SAP *, Figma *, VS Code, JetBrains Rider *          |
-| **Operating Systems** | Windows 11/10, Ubuntu 24/22 *, Debian 12 *, ParrotOS, Proxmox VE*    |
-| **AI & ML**        | Claude, ChatGPT, Midjourney, DALL·E, Stable Diffusion, Apple Intelligence |
-
+  <h1>Hi there, I'm semi-constructor (or just Tony)</h1>
+  <p><strong>Homelab | Backend Development | Application Management</strong></p>
+  
+  <p>
+    Building stuff that does stuff.
+  </p>
 </div>
-*learning
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project               | Description                                           | Stars  | Link                                     |
-|-----------------------|-------------------------------------------------------|--------|------------------------------------------|
-| **VaultScope**        | C# backend tool for secure data management            | ![Stars](https://img.shields.io/github/stars/cptcr/vaultscope?style=flat-square) | [Repo](https://github.com/cptcr/vaultscope) |
-| **Pterodactyl API Wrapper** | Node.js client for Pterodactyl API                  | ![Stars](https://img.shields.io/github/stars/cptcr/pterodactyl-api-wrapper?style=flat-square) | [Repo](https://github.com/cptcr/pterodactyl-api-wrapper) |
-| **Macro API**          | Unified API toolkit for YouTube, Spotify, Valorant, ChatGPT | ![Stars](https://img.shields.io/github/stars/cptcr/macro_api?style=flat-square) | [Repo](https://github.com/cptcr/macro_api) |
-| **CPTCR Database**     | Lightweight BSON local database with Mongoose-like schemas | ![Stars](https://img.shields.io/github/stars/cptcr/local-database?style=flat-square) | [Repo](https://github.com/cptcr/local-database) |
-| **Nexus**              | Discord.js bot & client handler framework              | ![Stars](https://img.shields.io/github/stars/cptcr/nexus?style=flat-square) | [Repo](https://github.com/cptcr/nexus) |
-
-</div>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cptcr&show_icons=true&theme=radical&count_private=true" alt="Tony's GitHub stats" width="460" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cptcr&layout=compact&theme=radical" alt="Top Languages" width="320" />
-</p>
-
-## 💖 Support My Work
-
-If you enjoy my work and want to support me, I’d really appreciate it!  
-Your contributions help me keep building and maintaining open-source projects.
-
-<p align="center">
-  <a href="https://revolut.me/cptcr" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Donate%20via-Revolut-4AB4F4?style=for-the-badge&logo=revolut&logoColor=white" alt="Donate via Revolut" />
-  </a>
-  <a href="https://paypal.me/cptcr" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Donate%20via-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
-  </a>
-</p>
-
-## 📫 Let’s Connect
-
-I’m always happy to collaborate, discuss ideas, or help out.  
-Check out my projects, open an issue, or shoot me a message!
-
-🌐 [Website](https://cptcr.dev) • 🐙 [GitHub](https://github.com/cptcr)
 
 ---
 
-<sub>Crafted with ❤️ and ☕ by Tony</sub>
+### What I'm Currently Working On
 
+*   **Pegasus:** A open-source discord bot including a dashboard, made for everyone by everyone.
+
+Check it out at https://pegasusbot.app ;)
+
+
+### 🛠️ Tech Stack & Tools
+
+**Frontend & UI** <br>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+**Backend & Database** <br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+
+**Infrastructure & OS** <br>
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
+
+---
+
+### Hobbies
+
+*   **Hardware:** I spend my downtime building my pc, overclocking and benchmarking.
+*   **Gaming:** When I'm not writing code or managing servers, I'm likely playing into Call of Duty.
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=semi-constructor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="semi-constructor's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semi-constructor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
