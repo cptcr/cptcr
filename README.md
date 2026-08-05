@@ -41,12 +41,3 @@ Check it out at https://pegasusbot.app ;)
 
 *   **Hardware:** I spend my downtime building my pc, overclocking and benchmarking.
 *   **Gaming:** When I'm not writing code or managing servers, I'm likely playing into Call of Duty.
-
----
-
-### GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=semi-constructor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="semi-constructor's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semi-constructor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
